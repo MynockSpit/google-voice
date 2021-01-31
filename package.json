@@ -1,0 +1,22 @@
+{
+  "name": "google-voice",
+  "version": "1.0.0",
+  "description": "An electron wrapped Google Voice application with light and dark themes.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "nativefier": "^42.2.1"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fmstrat/google-voice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fmstrat/google-voice/issues"
+  },
+  "homepage": "https://github.com/Fmstrat/google-voice#readme"
+}
